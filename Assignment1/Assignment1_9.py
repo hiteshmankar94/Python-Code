@@ -1,3 +1,5 @@
+#Write a program which display first 10 even numbers on screen.
+
 def even_num():
     i=1
     for i in range(1, 21):
