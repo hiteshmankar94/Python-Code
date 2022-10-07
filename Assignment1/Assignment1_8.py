@@ -1,3 +1,5 @@
+#Write a program which accept number from user and print that number of “*” on screen.
+
 def display(num):
     for i in range(num):
         print("*", end="    ")
