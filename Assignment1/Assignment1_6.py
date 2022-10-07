@@ -1,3 +1,5 @@
+#Write a program which accept number from user and check whether that number is positive or negative or zero.
+
 def number(val):
     if val > 0:
         return "Positive Number"
