@@ -1,3 +1,5 @@
+#Write a program which contains one function named as Add() which accepts two numbers from user and return addition of that two numbers.
+
 def Add(num1, num2):
     return num1+num2
 
